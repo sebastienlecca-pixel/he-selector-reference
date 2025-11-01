@@ -1,0 +1,11 @@
+# Historique des versions — H-E Selector™
+
+| Version | Date | Fichier | SHA-256 |
+|----------|------|----------|---------|
+| v1.0 | 2025-11-01 | he-selector-reference-main.zip | 69e35f92288339c4a44da56871f1d38d1f2dfb5d78703ae7aeec60c429a97176 |
+
+---
+
+© 2025 Sébastien Favre-Lecca  
+Ce fichier atteste du hachage cryptographique (SHA-256) de la version officielle v1.0 du dépôt **H-E Selector™**.  
+Tout usage industriel ou scientifique doit référencer cette version et son empreinte.
